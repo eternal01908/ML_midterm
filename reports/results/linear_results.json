@@ -1,0 +1,18 @@
+[
+    {
+        "Model": "Linear Regression",
+        "Features": "Full",
+        "R-Squared": 0.9784290222721248,
+        "MAE": 2.9266024935874624,
+        "MSE": 44.92507971400803,
+        "RMSE": 6.702617377861281
+    },
+    {
+        "Model": "Linear Regression",
+        "Features": "PCA",
+        "R-Squared": 0.9674148709764109,
+        "MAE": 3.402396662424325,
+        "MSE": 67.86384638394293,
+        "RMSE": 8.237951589074976
+    }
+]
